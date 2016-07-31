@@ -1,0 +1,32 @@
+{
+  "name": "nflprojections",
+  "version": "0.0.0",
+  "description": "Retrieve NFL Projections",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "lab -L -t 100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaw187/nflprojections.git"
+  },
+  "keywords": [
+    "NFL",
+    "Projections"
+  ],
+  "author": "James Weston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaw187/nflprojections/issues"
+  },
+  "homepage": "https://github.com/jaw187/nflprojections#readme",
+  "devDependencies": {
+    "code": "3.x.x",
+    "insync": "2.x.x",
+    "lab": "10.x.x"
+  },
+  "dependencies": {
+    "hoek": "4.x.x",
+    "x-ray": "2.x.x"
+  }
+}
