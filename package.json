@@ -1,6 +1,6 @@
 {
   "name": "nflprojections",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Retrieve NFL Projections",
   "main": "lib/index.js",
   "scripts": {
